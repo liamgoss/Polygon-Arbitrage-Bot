@@ -1,3 +1,5 @@
+# NOTICE: Please take a look at the [revamped version of the project here](https://github.com/liamgoss/Polygon_Arbitrage_Bot_REVAMPED) which changes the entire code structure by implementing classes. This new version may not work out of the box as I had to sporadically copy files from my private repo which contained exposes secret phrases, etc. however I believe this revamped version is a better way to lay the project out.
+
 # Polygon Arbitrage Bot
 This code takes advantage of price discrepancies for a token pair between Quickswap and Sushiswap on the Polygon mainnet. In order to maximize profits, these arbitrage opportunities will be exploited with the help of a flashloan from AAVE. 
 
